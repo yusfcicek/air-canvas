@@ -14,7 +14,13 @@ pip install opencv-python
 After completing the installation steps
 
 ```
-python AirCanvasWithMyObject.py
+python AirCanvas.py
 ```
 
 Instead of a camera, a video with manually adjusted color values was used. Optionally, the camera can be used. [Link of video used](https://drive.google.com/file/d/1oKQZFStBMnnZETU-O5RzO4_XYYGow7g_/view?usp=sharing)
+
+
+For use with video
+```
+python AirCanvasWithMyObject.py
+```
